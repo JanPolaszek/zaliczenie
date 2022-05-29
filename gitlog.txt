@@ -1,0 +1,9 @@
+134a5b2e1195a215dc9ee6fdcdc345c967d155a6 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #2 from JanPolaszek/kultura
+79dc7aa74a0e4639703f0cc1726686ba58839f21 (tag: v3.8, origin/kultura, kultura) Dzień Działacza kultury
+39319901a2e367a0e018d21a89379f4766dcf50a DŚ Masowego Przekazu
+b874deb99ef7489ac6baed1faf3e8dc5cf9a45f7 Merge pull request #1 from JanPolaszek/onz
+e4c411bbe552a6a588dfa67a0a44dbd381d379b8 (tag: v3.7) Powstanie Dnia Uczestników MP ONZ
+a30c16f9ec5d6fdcd28c6aaecc446a4b506833c5 Powstanie Dnia Uczestników MP ONZ
+dc8c576e939516b048386fb111b6fb8e972002b6 Dzień Uczesników Misji Pokojowych ONZ
+dfef0897090ec83ed5e42faa78e44264e613b5c4 Create .gitignore
+9227ae4555114af8ffbffcb20474ffed733306e9 Initial commit
